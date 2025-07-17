@@ -3,6 +3,12 @@
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
 
+## 🚀 Deployed Applications
+
+- **Frontend (Vercel):** [https://week-7-devops-deployment-assignment-nfvic-nk1knwkcc.vercel.app](https://week-7-devops-deployment-assignment-nfvic-nk1knwkcc.vercel.app)
+- **Frontend (Domain):** [https://week-7-devops-deployment-assignment-phi.vercel.app](https://week-7-devops-deployment-assignment-phi.vercel.app)
+- **Backend (Render):** [https://week-7-devops-deployment-assignment-nfvic.onrender.com](https://week-7-devops-deployment-assignment-nfvic.onrender.com)
+
 ## Assignment Overview
 
 You will:
@@ -68,6 +74,11 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 5. Include screenshots of your CI/CD pipeline in action
 6. Add URLs to your deployed applications
 
+## 📸 Screenshots
+
+- (Add screenshots of your CI/CD pipeline and deployed apps here)
+
+
 ## Resources
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
@@ -76,3 +87,15 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
 - [Netlify Documentation](https://docs.netlify.com/) 
+
+---
+
+ **Monitoring Documentation**
+- Briefly describe your monitoring setup in the README (even if basic):
+  - 
+    ## 🩺 Monitoring
+
+    - Health check endpoint: /api/health (returns { status: "ok" })
+    - Uptime monitoring;not set up
+    - Error tracking: not set up
+    ```
